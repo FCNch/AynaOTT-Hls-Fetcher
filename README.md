@@ -57,7 +57,7 @@
 
 
 ```
-curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links_Static.Json
+curl -X GET https://raw.githubusercontent.com/FCNch/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links_Static.Json
 
 ```
 
@@ -81,7 +81,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 **🖥️ Android TV**
 
 
-* Static  PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
+* Static  PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/FCNch/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
 *  Enjoy 😊
 
 **📹 Other**
